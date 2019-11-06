@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372048328044",
+    "firebase_url": "https://phonestore-cf23e.firebaseio.com",
+    "project_id": "phonestore-cf23e",
+    "storage_bucket": "phonestore-cf23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372048328044:android:dc7ce101cb7fb1d7e0af49",
+        "android_client_info": {
+          "package_name": "com.kassemabboud.phone_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372048328044-tc3631fp1aj94jvnel1vob2967uo04rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZH26kZf91NG7pZuckO_kpqYdhJeDBvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372048328044-tc3631fp1aj94jvnel1vob2967uo04rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
